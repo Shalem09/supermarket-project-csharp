@@ -1,4 +1,7 @@
+------------------------------------------------------------
 Supermarket Management System (C# WinForms)
+------------------------------------------------------------
+
 
 This project is a desktop supermarket simulation application built in C# using WinForms,
 designed to demonstrate Object-Oriented Programming (OOP) principles, inheritance hierarchies,
@@ -98,5 +101,6 @@ TECHNOLOGIES
 - C#
 - .NET
 - WinForms
-- JSON Serialization
+- JSON serialization & deserialization
 - Object-Oriented Programming
+
