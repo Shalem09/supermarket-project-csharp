@@ -2,13 +2,36 @@
 Supermarket Management System (C# WinForms)
 ------------------------------------------------------------
 
-
 This project is a desktop supermarket simulation application built in C# using WinForms,
 designed to demonstrate Object-Oriented Programming (OOP) principles, inheritance hierarchies,
 and UI-driven business logic.
 
 The system models a real-world supermarket with categorized products, a shopping cart,
 age-based restrictions, and a checkout flow.
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](assets/screenshots/main-menu.png)
+
+### Product Categories
+![Dairy Section](assets/screenshots/dairy-section.png)
+![Meat Section](assets/screenshots/meat-section.png)
+
+### Age Restriction (Drinks)
+![Underage Restriction](assets/screenshots/drinks-underage.png)
+
+### Weight-Based Product Input
+![Weight Input](assets/screenshots/weight-input.png)
+
+### Shopping Cart
+![Shopping Cart](assets/screenshots/shopping-cart.png)
+
+### Checkout & Validation
+![Checkout Validation](assets/screenshots/checkout-validation.png)
+
+### Payment Success
+![Payment Success](assets/screenshots/payment-success.png)
 
 ------------------------------------------------------------
 CORE CONCEPTS & DESIGN
@@ -103,4 +126,5 @@ TECHNOLOGIES
 - WinForms
 - JSON serialization & deserialization
 - Object-Oriented Programming
+
 
